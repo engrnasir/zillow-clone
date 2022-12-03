@@ -51,7 +51,7 @@ onMounted(()=>{
         <SearhBar/>
       </div>
     </header>
-    <div id="searchbarId" class="sticky w-full bg-white top-0 z-50 flex justify-center shadow-lg">
+    <div id="searchbarId" class="sticky w-full bg-white top-0 z-50 flex justify-center shadow-lg invisible">
       <SearhBar/>
     </div>
     <main>
